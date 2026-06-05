@@ -11,7 +11,7 @@ I'm a passionate MERN Stack Developer focused on building fully optimized, respo
 
 Currently working as a React/Next Developer at PK Teams / AKITS, where I build high-performance web applications and reusable UI components.
 
----
+
 
 ## 🛠️ Tech Stack
 
