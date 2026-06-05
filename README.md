@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #0ea5e9, #2563eb, #1e40af); 
+<div style="background: #FFFFFFF; 
             height: 260px; 
             border-radius: 20px; 
             display: flex; 
